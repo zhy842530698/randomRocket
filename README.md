@@ -42,15 +42,15 @@ Jp5uubL9vRs9wHg8RiiT7Fo2XDFYIrWPtl282UMEM5nqAqiv+PL149ZPrmd5f+AnABpWBSSnl4GknzUP
 
 <h2/>端口监听
 
-**1、chrome插件从应用商店下载即可:**
+1、chrome插件从应用商店下载即可:
 
 https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN&utm_source=ext_sidebar
 
-**2、新建代理服务器**
+2、新建代理服务器
 
 *情景模式*->新建情景模式->情景模型选择代理->协议端选择SOCKS5,输入代理服务器IP和端口
 
-**3、更新auto switch**
+3、更新auto switch
 
 在规则列表规则中选择**步骤2**新建的代理服务器名称,默认情景模式
 
@@ -62,7 +62,7 @@ https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgki
 
 随后点击更新情景模式
 
-**4、保存与退出**
+4、保存与退出
 
 点击左下方应用选项即可关闭,插件栏选择规则即可实现代理
 
